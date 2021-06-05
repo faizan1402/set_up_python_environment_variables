@@ -1,0 +1,25 @@
+#How to python virtual environment
+#step 1 pip install virtualenv (command)
+#step 2 create virtual environment directory (virtualenv directory name)
+#step 3 C:\Users\offic\Desktop\python_env>.\python38\Scripts\activate (mea
+ns activate the virtual environment)
+(python38) C:\Users\offic\Desktop\python_env> (this is showing env path)
+#step 4 when virtual environment not activate then open windows power sh
+ell and 
+write command set-executionpolicy remotesigned
+#suppose i want always same version of install packages every year then
+command pip install numpy==1.20.3
+pip freeze >requirements.txt
+so all packages version is showing inside requirements.txt file
+->>pip freeze > requirements.txt
+  means pip install 
+#step 5 means suppose i want all packages install together 
+so simple command (pip install -r.\requirements.txt)
+#step 6 suppose i want to new virtual environment so before create
+new virtualenv so decativate the virtualenv and create and another name
+to create virtualenv and i want main interpreter of all pacakges to my
+new environment 
+->so command (virtualenv --system-site-packages myenv (new environment 
+and all packages import the new virtualenv directory and install
+the site packages
+
