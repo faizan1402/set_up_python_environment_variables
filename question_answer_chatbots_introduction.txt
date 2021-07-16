@@ -1,0 +1,197 @@
+Que 1:If a question is asked that has not  previously defined,the chatbot
+will not be chatbots based on artificial intelligence are able to process
+natural language understanding (NLU)
+
+Chatbot FAQs – The Most Common Chatbot Questions Answered!
+1. What are chatbots and how do they work?
+Chatbots are essentially a form of automated service that customers can communicate with 
+via text or voice on different channels, e.g. website, Facebook Messenger, phone, other applications or 
+via voice assistants such as Amazon Alexa, 
+Google Assistant.
+
+What’s important to understand is that there are two types of chatbots – 
+the ones structured by hardcoded questions/answers and the ones that are able to learn through Machine Learning.
+"The first type has a smaller knowledge base and limited skills. They can only give correct output based on 
+specific instructions, meaning the questions asked must correspond to their set programming."
+
+"Chatbots that are able to semi-automatically learn can understand natural language and therefore do not need 
+as specific commands. That means bots based on Machine Learning get smarter with every interaction. 
+The effort behind these automated systems is of course much greater."
+
+2- Are all chatbots based on AI?
+As already mentioned, we differentiate between two types of chatbots: Rule-based and AI-based chatbots.
+As already mentioned,we differentiate between two types of chatbots:Rule-based and AI-based chatbots.
+with a rule-based chatbot,possible user queries and potential ansewers are defined in advance.if a 
+question.
+"In contrast to rule-based bots,chatbots based on artificial intelligence are able to process natural
+language. this is done with the help of natural language understanding (NLU).AI-based chatbots are able
+to learn semi-automatically.
+3-How do you know if a chatbot is right for your business?
+"Chatbots are suitable for many industries and use cases.they are well known to be able to provide excellent
+customer service,but there are also some great examples of chatbots in marketing & sales".
+  
+Ask yourself these questions before implementing a chatbot:
+-> How often does your company have direct customer contact?
+-> Does your customer service receive recurring requests frequently?
+-> How intensive are your customer requests?
+-> Which communication channels do your customers prefer?
+-> What added value can a chatbot create for your business?
+
+4. How can chatbots have better conversations?
+-> "Two very important factors for the overall performance of a chatbot are the structure and quality of the data that are available for answering questions. 
+    This is where Knowledge Graphs come in ".
+-> "Knowledge Graph is a synonym for a special kind of knowledge representation. It stores facts in the form of edges between nodes in a graph. 
+   In addition, most knowledge graphs also store the schema of the data.
+   Knowledge Graphs develop their full potential, especially with large and complex data structures".
+-> "When used for chatbots, a Knowledge Graph offers two direct advantages – improved data integration and simultaneous improvement of conversations".
+
+-> "New data sources can be integrated more easily since they only have to be brought to a single specific format 
+   and scheme. Knowledge Graphs also offer increased flexibility for expanding existing knowledge. That way, 
+   new facts are saved directly as new nodes and edges in the graph."
+
+
+-> "It is also possible to link several Knowledge Graphs without any problems, either using the same nodes or adding 
+   new edges. This allows to build up a modernly managed corporate knowledge base, which can be retrieved via API and 
+   voice interfaces using natural language."
+5. How much does a Chatbot cost?
+   
+   Unfortunately, this question is not as easy to answer as “How much is a can of soda?”.
+-> The investment that you put into a chatbot depends on various factors. Things such as the complexity of the bot, 
+   its AI capabilities, how it is built, technical integrations, infrastructure, launch & post-launch support and 
+   more have to be considered when you calculate or compare the cost of a chatbot.
+
+   "While you can sometimes get started for free with very basic bot builders, 
+   for bots built with more advanced bot builders you often pay setup fees that can range 
+   anywhere from € 1000 to € 15000+ and monthly retainers between € 100 to € 5000+."
+
+6. How does the implementation process of a chatbot look like? 
+ 
+   ->TOP 10 CHATBOT DEVELOPER INTERVIEW QUESTIONS & ANSWERS :
+    Chatbot Developer
+   "A chatbot developer is one who develops chatbots which are computer programs which can have real conversations 
+using a chat interface. He is one who has a deep understanding of software development, chatbot platforms, AI, 
+and machine learning, to name a few. His work would involve collaborating with cross-functional teams to define, 
+construct, and ship new chatbots, developing software to analyze customer needs and design, managing production 
+support issues, developing chatbots and other AI-based support systems, and providing technical expertise to analyze 
+various aspects of the organization such as software, hardware, and IT infrastructure".
+  
+  "Having understood who a chatbot developer is, let us now analyze the questions and answers asked in interview 
+  sessions conducted to hire chatbot developers."
+  1. What is a chatbot?
+  "A chatbot is an Artificial Intelligence (AI) software used to stimulate conversations with users in a natural 
+language through telephones, websites, messages, and mobile apps. A chatbot responds based on the input from a user. 
+These are smart robots which answer questions. They receive the questions, process them by understanding the question, and then deliver the answer that the user needs".
+
+2. How does the chatbot understand what the customer is trying to convey?
+   "The chatbot is trained with actual chat data. Companies which already make use of human-powered chat have logs of 
+the previous conversations. These logs are used to analyze what people are asking and what they intend to convey. 
+With a combination of machine learning models and an ensemble of tools, the user’s questions are matched with their 
+intents. Models are trained in such a way that the bot is able to connect similar questions to a correct intent and 
+produce the correct answer ".
+
+3. How do we teach the bot?
+   "It is taught in the same way as humans are taught but at a larger scale and in a much faster manner. 
+To teach a human customer service representative, we provide them with manuals which they read and understand 
+and apply in a practical setting while performing the work. In the case of chatbots, thousands of conversation 
+logs are shown to it and from that, it understands the nature of questions and the types of answers it needs to 
+provide ". 
+
+4. How does the bot know when it needs to converse with a human?
+   "At the end of each conversation with a chatbot, the question, ‘Did we help you?’ is asked and if we answer ‘No,’ 
+   the conversation is forwarded to human support. The same way when a chatbot is unable to understand a question 
+   provided by a human, it will forward the conversation by itself to human customer support".
+5. How does the bot continue to learn once it’s life and how do we make sure it doesn’t start behaving or speaking 
+   in an inappropriate manner?
+  -> "Once the bot is set-up and starts interacting with customers, smart feedback loops are implemented. 
+    When customers ask questions, chatbots give them certain options in order to understand their questions and 
+needs more clearly. This information is used to retrain the model thereby ensuring the accuracy of the chatbot. 
+There are also guarding systems which have been implemented to make sure that the bot doesn’t change based on a 
+few replies. This is also ensured by making sure that the bot simply just doesn’t rephrase what people tell it but 
+is actually taught to answer questions the way its owner (the company) wants it to answer".
+6. Can the bot be controlled once it is live?
+   "Yes, absolutely. The chatbot has been programmed to understand specific questions. The developing company can 
+decide the extent to which it wants to expand or shrink its understanding".
+7. What are the key benefits of chatbots to business applications?
+  "It saves time and money and improves customer experience. It helps get feedback from actual users in real-time. 
+Chatbots get smarter with time. They reduce the need for human intervention as the User Interface (UI) is generated 
+automatically in many cases. For businesses with powerful front-end tooling, it can help in setting up cognitive 
+chatbots in all your channels."
+8. What languages and technologies should a chatbot developer be well-versed in to build chatbots?
+  "One needs to have a fair knowledge of back-end technologies and analytics. Languages used for developing 
+chatbots are Java, C#, Python, and Node JS. To be able to answer arbitrary questions and to develop these smart 
+robots, a deep understanding of machine learning, artificial intelligence, Natural Language Understanding (NLU), 
+and Google Cloud Natural Language API (Application Programming Interface) is required ".
+
+9. Will chatbots replace mobile apps in the future?
+  "AI-powered bots working with voice and text may become a common feature and an everyday activity of humans. 
+It will become as regular as 3G internet and 3D printing are in today’s scenario. In the close future,
+chatbots will become more human-like that it will be possible to ask a bot to make something for you which 
+the bot will carry out if it is possible. They will become more like personal assistants to carry out our 
+routine tasks such as buying groceries, paying bills, searching for holiday destinations, and much more".
+
+10. What are some of the most popular companies using chatbots?
+  "Some renowned financial leaders and top brands in the IT industry use chatbots for customer support and 
+automation of business processes. CNN, Wall Street Journal, Microsoft, NASA, Hubspot, and Skyscanner are some 
+of the prominent companies on this list  According to UK-based firm, Juniper Research, chatbots can help 
+businesses save $8 billion annually worldwide by 2022."
+ 
+Conclusion :
+"A chatbot is referred to as one of the most promising expressions of interaction between machines and humans.
+Chatbot applications help streamline interactions between people and services. It offers new opportunities for 
+companies to improve operational efficiency and customer engagement process.
+This helps bring down the cost of customer services. An effective and efficient chatbot 
+solution is one that can perform both these tasks. Human intervention is necessary to configure, train, 
+and optimize the chatbot.
+To understand the perfect chatbot application that would be suitable for a specific purpose, one needs to 
+use a combination of different AI forms such as semantic understanding, machine learning, and natural language 
+processing".
+
+CHATBOT
+"TAGSCHATBOT DEVELOPER, CHATBOT DEVELOPER INTERVIEW, CHATBOT EXPERT, CHATBOT JOB, CHATBOTS, CHTABOT, 
+INTERVIEW QUESTION ANSWERS, TECHNOLOGY, TOP 10 INTERVIEW QUESTION ANSWERS"
+  
+   
+5. 5. How does the bot continue to learn once it’s life and how do we make sure it doesn’t start behaving or speaking
+
+
+ in an inappropriate manner?
+
+Que - What is the purpose of Chatbots?
+Ans - Chatbot applications streamline interactions between people and services, enhancing customer experience. 
+At the same time, they offer companies new opportunities to improve the customers engagement process and 
+operational efficiency by reducing the typical cost of customer service.
+Que - Which are AI based Chatbots?
+Ans - Best AI Chatbot
+1-Manychat 2)Lanbot 3)Hyro 4)REVE chatbot 5)Xenioo  6)survey-sparrow 7)Flowxo
+ 8) Amplify.ai 9)Botsify 10)
+  
+Que -What is AI  based chatbots?
+Ans -A chatbot is a program that simulates a text- or speech-based human-to-human conversation using artificial
+intelligence (AI), providing an authentic, straightforward experience. Many different technologies can be considered 
+chatbots, ranging from automated phone menus to sophisticated marketing bots that can engage with customers on social media.
+
+
+Que - What is AI based Chatbot?
+
+  But my chatbot is AI chatbot is a software that can simulate a user conversation with a natural
+  language through messaging applications.it increases user response rate by being available 24/7
+  on your website.AI chatbot saves your time,money,and gives better customer satisfaction.
+   
+ Que - How does an AI chatbot work?
+ Ans - A chatbot is programmed to work independently from a human operator. 
+ It can answer questions formulated to it in natural language and respond like a real person. It provides
+ responses based on a combination of predefined scripts and machine learning applications.
+
+Que - Problem statement:Artificial intelligence chatbot is a technology that makes interactions between man and 
+machines using natural language possible. ... Chatbot can give
+different responses from the same input given by user according to current conversation issue.
+
+->In my projects
+
+  "It is an AI chatbot, using Long Short Term Memory, the problem statements 
+ (this is straightforward, what is the purpose of a chatbot) and advantages are things that you can get from google."
+   
+ 
+
+
+  
